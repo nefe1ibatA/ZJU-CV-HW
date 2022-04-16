@@ -5,3 +5,5 @@
 *_report.md
 .vscode
 .DS_Store
+cmake_install.cmake
+/CMakeFiles
