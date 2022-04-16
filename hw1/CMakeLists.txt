@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.15)
+set(CMAKE_CXX_STANDARD 14)
+project(hw1)
+
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+
+set(SOURCE_FILES hw1.cpp)
+add_executable(hw1 ${SOURCE_FILES})
+target_link_libraries (hw1 ${OpenCV_LIBS})

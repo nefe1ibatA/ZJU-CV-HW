@@ -1,0 +1,3 @@
+/Users/nefelibatalyu/Desktop/code/cv/hw3/train/CMakeFiles/train.dir
+/Users/nefelibatalyu/Desktop/code/cv/hw3/train/CMakeFiles/edit_cache.dir
+/Users/nefelibatalyu/Desktop/code/cv/hw3/train/CMakeFiles/rebuild_cache.dir

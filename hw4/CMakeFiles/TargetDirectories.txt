@@ -1,0 +1,3 @@
+/Users/nefelibatalyu/Desktop/code/cv/hw4/CMakeFiles/hw4.dir
+/Users/nefelibatalyu/Desktop/code/cv/hw4/CMakeFiles/edit_cache.dir
+/Users/nefelibatalyu/Desktop/code/cv/hw4/CMakeFiles/rebuild_cache.dir

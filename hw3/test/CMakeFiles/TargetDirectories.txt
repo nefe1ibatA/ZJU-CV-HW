@@ -1,0 +1,3 @@
+/Users/nefelibatalyu/Desktop/code/cv/hw3/test/CMakeFiles/test.dir
+/Users/nefelibatalyu/Desktop/code/cv/hw3/test/CMakeFiles/edit_cache.dir
+/Users/nefelibatalyu/Desktop/code/cv/hw3/test/CMakeFiles/rebuild_cache.dir
