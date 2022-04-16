@@ -6,6 +6,6 @@
 .vscode
 .DS_Store
 cmake_install.cmake
-*/CMakeFiles/
+CMakeFiles/
 CMakeCache.txt
 Makefile
