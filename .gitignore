@@ -3,3 +3,5 @@
 *.png
 *.avi
 *_report.md
+.vscode
+.DS_Store
